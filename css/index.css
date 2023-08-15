@@ -23,7 +23,7 @@ li {
 }
 
 #background-image {
-    background-image: url('img/coding-wallpaper.jpg');
+    background-image: url('../img/coding-wallpaper.jpg');
     background-size: cover;
     position:fixed;
     width: 100vw;
